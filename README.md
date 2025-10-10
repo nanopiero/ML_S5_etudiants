@@ -1,5 +1,5 @@
 # ML_S5_etudiants
-Github repository for ENM-ENSEIGHT courses of Machine Learning 
+Github repository for ENM-ENSEEIGHT courses of Machine Learning 
 
 - practicals:
     - colab notebooks to fill and run on colab
